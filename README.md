@@ -1,6 +1,6 @@
 # SimpleDropdown
 
-This is a simple dropdown that can be easily integrated into your app layout and customize the visual design to suit your design.
+This is a simple dropdown that can be easily integrated into your app layout and customize to suit your design.
 
 So you just need to import this library:
 ```swift
