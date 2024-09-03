@@ -40,6 +40,13 @@ You can do the same with the header (UIView):
         }
     }
 ```
+
+To remove or change the selection in the dropdown from the outside in your code you can call:
+```swift
+    self.dropdownView.updateCurrentOption(option: "Some placeholder")
+```
+The header configurator is subscribed to the current option and will update the header immediately.
+
 <img width="337" alt="Снимок экрана 2024-09-02 в 20 08 01" src="https://github.com/user-attachments/assets/4555091b-7616-423e-932e-2f0101c9eae1">
 
 ## Requirements
